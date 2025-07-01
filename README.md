@@ -119,7 +119,7 @@ Our goal was to evaluate multiple algorithms (SVM, ANN, Random Forest) on these 
 
 The full methodology, data analysis, parameter tuning, and detailed results are available in our project paper:
 
-[**Download PDF Report**](docs/ML_Cyber_Attack_Detection.pdf)
+[**Download PDF Report**](Screenshots/ML_based_detection_of_cyber_attacks.pdf)
 
 
 
@@ -155,7 +155,7 @@ The Discord Trivia Bot offers realtime, multiplayer trivia gameplay directly in 
 ## Screenshots
 
 ### Game Start Prompt
-![Trivia Start](Screenshots/Discord_Trivia_Bot%201.png)
+![Trivia Start](Screenshots/Discord Trivia Bot 1.png)
 
 ---
 
