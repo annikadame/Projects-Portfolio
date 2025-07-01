@@ -155,27 +155,27 @@ The Discord Trivia Bot offers realtime, multiplayer trivia gameplay directly in 
 ## Screenshots
 
 ### Game Start Prompt
-![Trivia Start](Screenshots/Discord Trivia Bot 1.png)
+![Trivia Start](Screenshots/Discord_Trivia_Bot%201)
 
 ---
 
 ### Players Join the Game
-![Players Join](Screenshots/Discord Trivia Bot 2.png)
+![Players Join](Screenshots/Discord_Trivia_Bot%202)
 
 ---
 
 ### Answering a Question
-![Answer Question](Screenshots/Discord Trivia Bot 3.png)
+![Answer Question](Screenshots/Discord_Trivia_Bot%203)
 
 ---
 
 ### Score Display
-![Score Display](Screenshots/Discord Trivia Bot 4.png)
+![Score Display](Screenshots/Discord_Trivia_Bot%204)
 
 ---
 
 ### Game End and Standings
-![Game End](Screenshots/Discord Trivia Bot 5.png)
+![Game End](Screenshots/Discord_Trivia_Bot%205)
 
 
 ---
