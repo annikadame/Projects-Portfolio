@@ -159,7 +159,7 @@ The Discord Trivia Bot offers realtime, multiplayer trivia gameplay directly in 
 
 ---
 
-### Players Join the Game
+### Players Answer Question, Show Score, and Show Standings
 ![Players Join](Screenshots/Discord%20Trivia%20Bot%202.png)
 
 ---
